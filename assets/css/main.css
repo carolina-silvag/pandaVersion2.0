@@ -1,1 +1,77 @@
 
+html, body, div {
+  /*padding: 0;*/
+  border: 0;
+  margin: 0;
+}
+.row {
+  margin-bottom: 0;
+}
+.lovePanda {
+  background-color: #f78e69;
+  color: #fff;
+}
+
+.imgOne {
+  background-image: url(../images/uno.jpg);
+  background-size: cover; 
+  position: center;
+  background-repeat: no-repeat;
+  height: 630px;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+.title {
+  margin-right: 3%;
+}
+
+.description, .pictures{
+  background: #abe188;
+  color: #fff;
+}
+
+.paragraph {
+  display: inline-block;
+  background-color: #f78e69;
+  text-align: justify;
+  border-radius: 10px;
+  color: #FFF;
+  padding: 3%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+.paragraph h3 {
+  text-align: center;
+}
+
+.imgTwo {
+  background-image: url(../images/dos.jpg);
+  background-size: cover; 
+  position: center;
+  background-repeat: no-repeat;
+  height: 680px;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+img {
+  border: 5px solid #fff;
+}
+.masPanda {
+  padding: 6%;
+}
+.title2 {
+  margin-top: 5%;
+}
+.imgTres {
+  background-image: url(../images/tres.jpg);
+  background-size: cover; 
+  position: center;
+  background-repeat: no-repeat;
+  height: 680px;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+.txtFooter {
+  text-align: right;
+}
